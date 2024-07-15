@@ -4,9 +4,9 @@ Welcome to the GRID Feedback repository! This space is dedicated to collecting f
 
 ## How to Contribute
 
-1. **Bug Reports**: If you encounter any issues, please check if it has already been reported. If not, [open a new issue](https://github.com/ScaledFoundations/GRID-Feedback/issues/new?template=bug_report.md).
-2. **Feature Requests**: Have a great idea for a new feature? Let us know by [opening a feature request](https://github.com/ScaledFoundations/GRID-Feedback/issues/new?template=feature_request.md).
-3. **General Feedback**: We value your feedback! Share your thoughts and suggestions [here](https://github.com/ScaledFoundations/GRID-Feedback/issues/new?template=general_feedback.md).
+1. **Bug Reports**: If you encounter any issues, please check if it has already been reported. If not, [open a new issue](https://github.com/ScaledFoundations/GRID-Forum/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=%5BBUG%5D+).
+2. **Feature Requests**: Have a great idea for a new feature? Let us know by [opening a feature request](https://github.com/ScaledFoundations/GRID-Forum/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title=%5BFEATURE%5D+).
+3. **General Feedback**: We value your feedback! Share your thoughts and suggestions [here](https://github.com/ScaledFoundations/GRID-Forum/issues/new?assignees=&labels=feedback&projects=&template=general_feedback.md&title=%5BFEEDBACK%5D+).
 
 ## Community Guidelines
 
